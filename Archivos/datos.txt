@@ -1,0 +1,5 @@
+Nombre: Chris Ibarra
+Edad: 22
+Lenguaje de programación favorito: Python
+Ciudad de residencia: Mexicali
+Pasatiempo favorito: Videojuegos
